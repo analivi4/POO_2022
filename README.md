@@ -1,2 +1,2 @@
 # POO_2022
-Atividades da disciplina de POO
+Atividades da disciplina de POO em C++
